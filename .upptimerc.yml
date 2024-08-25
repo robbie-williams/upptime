@@ -6,7 +6,7 @@ sites:
   - name: STFU Valheim
     url: dimand.xyz
     port: 2456
-    check: "tcp-ping"
+    check: "udp"
   - name: Google
     url: https://www.google.com
   - name: Hacker News
