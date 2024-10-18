@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "stfu-valheim",
     "status": "up",
-    "uptime": "99.36%",
+    "uptime": "99.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.36%",
-    "time": 1098,
-    "timeDay": 1143,
-    "timeWeek": 1050,
-    "timeMonth": 1101,
-    "timeYear": 1098,
+    "uptimeYear": "99.37%",
+    "time": 1094,
+    "timeDay": 867,
+    "timeWeek": 1016,
+    "timeMonth": 1096,
+    "timeYear": 1094,
     "dailyMinutesDown": {
       "2024-08-25": 486
     }
