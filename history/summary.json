@@ -4,7 +4,7 @@
     "url": "dimand.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "stfu-valheim",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1065,
     "timeYear": 1087,
     "dailyMinutesDown": {
+      "2024-10-23": 0,
       "2024-08-25": 486
     }
   }
