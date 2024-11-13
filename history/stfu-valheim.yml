@@ -1,7 +1,7 @@
 url: dimand.xyz
-status: up
-code: 200
-responseTime: 440
-lastUpdated: 2024-11-13T13:27:42.738Z
+status: down
+code: 502
+responseTime: 1103
+lastUpdated: 2024-11-13T13:41:26.938Z
 startTime: 2024-08-25T06:31:11.199Z
 generator: Upptime <https://github.com/upptime/upptime>
